@@ -213,3 +213,7 @@ section {top: 3%; bottom: 3%; height: auto; background-size: 60% auto, 60% auto;
 95% {transform: translate(-1px,  1px) rotate(-1.5deg);}
 99% {transform: translate(-3px, -1px) rotate(-1.5deg);}
 }
+.start{
+  height:200 px;
+  width:200 px;
+}
